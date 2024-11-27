@@ -17,6 +17,6 @@
 
 | 学习时间 | 学习内容 | 文件路径 |
 | -------- | -------- | -------- |
-| 2024-01-18 | Hello World | `PreliminaryAttempt\src\firstPackage\FirstClass.java` |
-| 2024-01-19 | 超类 | `PreliminaryAttempt\src\dateAndTime\MyDateAndTime.java` |
-| 2024-01-20 | 接口 | `PreliminaryAttempt\src\geometry\MyGeometry.java` |
+| 2024-11-18 | Hello World | [`PreliminaryAttempt\src\firstPackage\FirstClass.java`](https://github.com/guangyiliushan/learnJava/blob/main/PreliminaryAttempt/src/firstPackage/FirstClass.java) |
+| 2024-11-20 | 超类 | [`PreliminaryAttempt\src\dateAndTime\MyDateAndTime.java`](https://github.com/guangyiliushan/learnJava/blob/main/PreliminaryAttempt/src/dateAndTime/MyDateAndTime.java) |
+| 2024-11-25 | 接口 | [`PreliminaryAttempt\src\geometry\MyGeometry.java`](https://github.com/guangyiliushan/learnJava/blob/main/PreliminaryAttempt/src/geometry/MyGeometry.java) |
