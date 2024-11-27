@@ -1,4 +1,4 @@
-package firstPackage;
+package dateAndTime;
 
 public class MyTime extends MyDate {
 	private int hour, minute, second;

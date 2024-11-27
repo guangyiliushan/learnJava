@@ -1,4 +1,4 @@
-package firstPackage;
+package dateAndTime;
 
 public class MyDate {
 	private int year, month, day;

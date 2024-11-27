@@ -1,4 +1,4 @@
-package firstPackage;
+package geometry;
 
 public class Circle implements Shape {
 	private double radius;

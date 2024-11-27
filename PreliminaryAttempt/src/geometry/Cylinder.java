@@ -1,4 +1,4 @@
-package firstPackage;
+package geometry;
 
 public class Cylinder extends Circle implements Volume {
 	private Rectangle side;

@@ -1,4 +1,4 @@
-package firstPackage;
+package geometry;
 
 public class Rectangle implements Shape {
     private double width;
