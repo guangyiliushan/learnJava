@@ -26,4 +26,11 @@ public class Circle implements Shape {
 	public double getPerimeter() {
 		return 2 * this.radius * Math.PI;
 	}
+	
+	public boolean equal(Object sh) {
+		if (sh instanceof Shape) {
+			return true;
+		}
+		return false;
+	}
 }

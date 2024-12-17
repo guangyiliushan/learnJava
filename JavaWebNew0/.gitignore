@@ -34,7 +34,6 @@ replay_pid*
 .settings
 .project
 .flattened-pom.xml
-.metadata
 
 # Maven相关文件及目录
 target/
